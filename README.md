@@ -1,4 +1,4 @@
-# Daljot's GitHub site
+# Daljot's GitHub sitee
 
 Visit the main website at [daljotsingh.com](https://daljotsingh.com).
 
